@@ -8,7 +8,7 @@
         style="background-image: url('{{ asset('img/bg.png') }}')">
     </div>
 
-    <div class="-mt-[500px] flex mx-auto justify-center mb-[300px]">
+    <div class="-mt-[600px] flex mx-auto justify-center mb-[300px]">
         @if (Auth::check())
                 <div class="w-full max-w-xl mt-22 bg-gradient-to-tr from-primary to-secondary rounded-lg shadow-lg ">
                     <div class="flex justify-center items-center mb-6">
